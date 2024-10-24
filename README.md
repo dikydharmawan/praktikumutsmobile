@@ -1,6 +1,12 @@
-# login
+# loginregister
 
-A new Flutter project.
+# 362358302047_Ahmad Diky Dharmawan
+![screenshoot praktikum](assets/images/01.png),
+![screenshoot praktikum](assets/images/02.png),
+![screenshoot praktikum](assets/images/03.png),
+![screenshoot praktikum](assets/images/04.png),
+![screenshoot praktikum](assets/images/05.png),
+
 
 ## Getting Started
 
